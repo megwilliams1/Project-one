@@ -3,6 +3,34 @@ h1{
     font-size: 75px;
 }
 
+
 i{
     font-size: 25px;
+}
+
+
+header{
+   background: linear-gradient(110deg, yellow 40%, pink 40%) ;
+}
+
+
+section{background: lightgrey}
+
+footer{background: black; color: white;}
+
+
+
+
+div{
+    text-align: center;
+    padding: 40px;
+}
+
+
+h3{
+border: 2px solid white ;
+padding: 15px;
+font-size: 45px;
+margin: auto;
+max-width: 400px;
 }
